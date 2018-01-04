@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+Read me file for Stat 6250
